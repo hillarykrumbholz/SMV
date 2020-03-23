@@ -4,8 +4,8 @@
 To create worksheets. dashboards, and stories from New York City bike-sharing data using Tableau.
 
 ## Resources
-Data Sources: LoanStats_2019Q1.csv
-Software: Jupyter Notebook, Python 3.7.6
+Data Sources: LoanStats_2019Q1.csv <br>
+Software: Jupyter Notebook, Python 3.7.6 <br>
 Python dependencies: Numpy, Scipy, Scikit-learn
 
 ### Project Objective
